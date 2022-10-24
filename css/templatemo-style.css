@@ -652,6 +652,88 @@ header {
 
 
 
+/* Projects3 Style */
+
+#projects3 {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+}
+
+#projects3 .masonry {
+  position: relative;
+  width: 100%;
+}
+
+#projects3 .masonry .item img {
+  transition: all 1s;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+#projects3 .masonry .item img:hover {
+  opacity: 0.5;
+}
+
+
+
+
+/* Projects4 Style */
+
+#projects4 {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+}
+
+#projects4 .masonry {
+  position: relative;
+  width: 100%;
+}
+
+#projects4 .masonry .item img {
+  transition: all 1s;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+#projects4 .masonry .item img:hover {
+  opacity: 0.5;
+}
+
+
+
+
+
+
+/* Projects5 Style */
+
+#projects5 {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+}
+
+#projects5 .masonry {
+  position: relative;
+  width: 100%;
+}
+
+#projects5 .masonry .item img {
+  transition: all 1s;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+#projects5 .masonry .item img:hover {
+  opacity: 0.5;
+}
+
+
+
 
 
 
