@@ -351,11 +351,13 @@ header {
   font-size: 48px;
   color: #fff;
   font-weight: 700;
+ /*  text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black; */
 }
 
 .Modern-Slider .info p {
   font-size: 15px;
   color: #fff;
+  /* text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black; */
 }
 
 .Modern-Slider .info .white-button {
@@ -620,6 +622,37 @@ header {
 #projects .masonry .item img:hover {
   opacity: 0.5;
 }
+
+
+
+/* Projects2 Style */
+
+#projects2 {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+}
+
+#projects2 .masonry {
+  position: relative;
+  width: 100%;
+}
+
+#projects2 .masonry .item img {
+  transition: all 1s;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+#projects2 .masonry .item img:hover {
+  opacity: 0.5;
+}
+
+
+
+
+
 
 
 
